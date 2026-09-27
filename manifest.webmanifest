@@ -1,7 +1,7 @@
 {
   "name": "MÖGI",
   "short_name": "MÖGI",
-  "description": "Tienda online de ropa usada",
+  "description": "Tienda online de ropa de segunda vida",
   "lang": "es",
   "start_url": "./",
   "scope": "./",
